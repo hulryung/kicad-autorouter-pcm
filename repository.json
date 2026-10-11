@@ -1,0 +1,22 @@
+{
+  "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+  "name": "KiCad Autorouter Repository",
+  "maintainer": {
+    "name": "hulryung",
+    "contact": {
+      "web": "https://github.com/hulryung/kicad-autorouter"
+    }
+  },
+  "packages": {
+    "url": "https://raw.githubusercontent.com/hulryung/kicad-autorouter-pcm/main/packages.json",
+    "sha256": "8cc3747c75c8672e6c5c51a94dd4a499cfe3cc61db6deb57b841838fc12c0b8a",
+    "update_time_utc": "2026-10-11 16:28:07",
+    "update_timestamp": 1791736087
+  },
+  "resources": {
+    "url": "https://raw.githubusercontent.com/hulryung/kicad-autorouter-pcm/main/resources.zip",
+    "sha256": "8cd1f64b880a339f2d552f98771331baeea4b91b5194df4691d56ab4e0a008db",
+    "update_time_utc": "2026-10-11 16:28:07",
+    "update_timestamp": 1791736087
+  }
+}
