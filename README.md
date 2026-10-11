@@ -8,4 +8,4 @@ Install the Autorouter plugin from KiCad's Plugin and Content Manager:
 
 2. Pick **KiCad Autorouter Repository** in the repository dropdown, install **Autorouter**, **Apply Pending Changes**.
 
-This repository only carries the installable packages and their metadata. Current version: 0.1.0.
+This repository only carries the installable packages and their metadata. Current version: 0.2.0.
