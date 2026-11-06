@@ -24,6 +24,16 @@
       ],
       "versions": [
         {
+          "version": "0.5.0",
+          "status": "testing",
+          "kicad_version": "9.0",
+          "kicad_version_max": "10.99",
+          "download_url": "https://raw.githubusercontent.com/hulryung/kicad-autorouter-pcm/main/packages/kicad-autorouter-0.5.0.zip",
+          "download_sha256": "f17194ec1d2c2c36e1e65b4d5ad43b24702ee14786ee3ea6cf44be97a9da1bba",
+          "download_size": 222564,
+          "install_size": 711953
+        },
+        {
           "version": "0.4.0",
           "status": "testing",
           "kicad_version": "9.0",
