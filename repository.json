@@ -9,14 +9,14 @@
   },
   "packages": {
     "url": "https://raw.githubusercontent.com/hulryung/kicad-autorouter-pcm/main/packages.json",
-    "sha256": "ee20eee76305e13f42f2b7dedb75470f2064b35b0f30c82c799fda42141decb8",
-    "update_time_utc": "2026-11-17 06:13:29",
-    "update_timestamp": 1794896009
+    "sha256": "8bde372a48750abacf55a625c84aaf627e0ea963793fecdc6d219072b9ea5c43",
+    "update_time_utc": "2026-11-18 10:39:30",
+    "update_timestamp": 1794998370
   },
   "resources": {
     "url": "https://raw.githubusercontent.com/hulryung/kicad-autorouter-pcm/main/resources.zip",
     "sha256": "78f533181d90b6974289fc3f35268d18c3b010d517cafed27a280f2e255d5796",
-    "update_time_utc": "2026-11-17 06:13:29",
-    "update_timestamp": 1794896009
+    "update_time_utc": "2026-11-18 10:39:30",
+    "update_timestamp": 1794998370
   }
 }
